@@ -106,7 +106,7 @@ h1,h2,h3{ text-align: center; }
 
 /* Hero  */
 .hero{
-    background-image: none;
+    background-image: url(../img/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 45rem;
